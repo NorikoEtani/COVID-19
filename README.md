@@ -26,8 +26,7 @@ https://ourworldindata.org/covid-vaccinations
 
 owid-covid-data.csv（2020/1/22~）
 
-References：
-[1]Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://www.nature.com/articles/s41562-021-01122-8
+ReferencesMathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://www.nature.com/articles/s41562-021-01122-8
 
 
 ・日本国内の感染者数（NHKまとめ）
