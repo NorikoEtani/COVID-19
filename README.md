@@ -5,7 +5,7 @@ SARIMAモデルを用いた日本のCOVID-19感染予測プログラム
 
 作成者：江谷典子
 
-電子メール：kerotan@kcn.ne.jp
+電子メール：dr.noriko.etani@ieee.org
 
 
 【目的】
@@ -56,10 +56,30 @@ data.zipを解凍すると次のファイルフォルダが生成されます．
 
 ・OpenData　利用しているオープンデータ
 
+　owid-covid-data.csv　世界のCOVID-19感染データ
+ 
+　nhk_news_covid19_domestic_daily_data.csv　日本国内の感染者数（NHKまとめ）
+ 
+　nhk_news_covid19_prefectures_daily_data.csv　都道府県ごとの感染者数（NHKまとめ）
+  
 ・csv　本プログラムで利用している日本・東京都・大阪府・神奈川県の新規感染者および新規死亡者数データ，日本のワクチン2回目接種者数（累計）データ
-
+　
+　Japan_0816.csv　日本の新規感染者数・新規死亡者数・ワクチン2回接種者数（累計）
+  
+　Japan_0817.csv　日本の新規感染者数・新規死亡者数
+  
+　TOKYO_0817.csv　東京都の新規感染者数・新規死亡者数
+  
+　OSAKA_0817.csv　大阪府の新規感染者数・新規死亡者数
+  
+　KANAGAWA_0817.csv　神奈川県の新規感染者数・新規死亡者数
+　
 ・plot_csv　本プログラムで利用している予測プロットデータ
 
+　death_pred.csv　日本・東京都・大阪府・神奈川県の新規死亡者数予測（最大値・最小値）
+ 
+　patien_pred.csv　日本・東京都・大阪府・神奈川県の新規感染者数予測（最大値・最小値）
+　
 
 以上
 
