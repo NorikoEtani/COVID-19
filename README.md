@@ -1,2 +1,2 @@
 # COVID-19
-Prediction of COVID-19 infection in Japan using SARIMA model 
+SARIMAモデルを用いた日本のCOVID-19感染予測プログラム
