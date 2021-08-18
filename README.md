@@ -17,7 +17,8 @@ SARIMAモデルを用いた日本のCOVID-19感染予測プログラム
 ・Google ColaboratoryのColab ノートブック（*.ipynb）
 
 【オープンデータ】
-Our World in Data，Coronavirus (COVID-19) Vaccinations
+
+・Our World in Data，Coronavirus (COVID-19) Vaccinations
 
 Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021)
 
@@ -29,19 +30,18 @@ References：
 [1]Mathieu, E., Ritchie, H., Ortiz-Ospina, E. et al. A global database of COVID-19 vaccinations. Nat Hum Behav (2021). https://www.nature.com/articles/s41562-021-01122-8
 
 
-日本国内の感染者数（NHKまとめ）
+・日本国内の感染者数（NHKまとめ）
 
 https://www3.nhk.or.jp/news/special/coronavirus/data-all/
 
 nhk_new_covid19_domestic_daily_data.csv（2020/01/16~）
 
 
-都道府県ごとの感染者数（NHKまとめ）
+・都道府県ごとの感染者数（NHKまとめ）
 
 https://www3.nhk.or.jp/news/special/coronavirus/data/
 
 nhk_new_covid19_prefectures_daily_data.csv（2020/01/16~）
-
 
 【提供するプログラム】
 
@@ -53,10 +53,11 @@ nhk_new_covid19_prefectures_daily_data.csv（2020/01/16~）
 
 【サンプルデータ】
 
+次のファイルフォルダを準備しています．
+
 ・OpenData　利用しているオープンデータ
 
 ・csv　本プログラムで利用している日本・東京都・大阪府・神奈川県の新規感染者および新規死亡者数データ，日本のワクチン2回目接種者数（累計）データ
-
 
 ・plot_csv　本プログラムで利用している予測プロットデータ
 
