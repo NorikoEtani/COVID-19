@@ -52,7 +52,7 @@ nhk_new_covid19_prefectures_daily_data.csv（2020/01/16~）
 
 【サンプルデータ】
 
-次のファイルフォルダを準備しています．
+data.zipを解凍すると次のファイルフォルダが生成されます．
 
 ・OpenData　利用しているオープンデータ
 
