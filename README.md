@@ -9,6 +9,12 @@ SARIMAモデルを用いた日本のCOVID-19感染予測プログラム
 
 現在、一般社団法人 情報処理学会のデジタルプラクティスレポート「時系列解析 SARIMAモデルを用いた日本のCOVID-19感染予測実証実験」を投稿中です．本レポートをドキュメントとして利用して頂きたく，採録および出版と同時に本GitHubのURLを公開いたします．それまでに，このURLを発見され，利用されることは構いません．
 
+本プログラムの出力結果は次のURL（研究ブログ）にて公開しています．予測結果を更新する度にSNS twitterでお知らせしています．
+
+・時系列データの分析と予測その１：日本の COVID-19 感染予測　https://researchmap.jp/blogs/blog_entries/view/387354/49dc5d4309d202225ecf14670b29299e?frame_id=844568
+
+・時系列データの分析と予測その２：東京都・大阪府・神奈川県の COVID-19感染予測　https://researchmap.jp/blogs/blog_entries/view/387354/206fc13e488a815b29abb72c3fb04f7e?frame_id=844568
+
 【目的】
 
 日本のCOVID-19感染予測を時系列解析SARIMAモデルを用いて行う．SARIMAモデルの構築と予測の手順を解説しながらプログラムを実行できるGoogle ColaboratoryのColab ノートブック（*.ipynb）を提供する．
