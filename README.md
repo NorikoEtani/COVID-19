@@ -9,7 +9,7 @@ SARIMAモデルを用いた日本のCOVID-19感染予測プログラム
 
 電子メール：dr.noriko.etani@ieee.org
 
-一般社団法人 情報処理学会のデジタルプラクティスレポート「時系列解析 SARIMAモデルを用いた日本のCOVID-19感染予測実証実験」をドキュメントとして利用してください．
+一般社団法人 情報処理学会のデジタルプラクティスレポート「時系列解析 SARIMAモデルを用いた日本のCOVID-19感染予測実証実験」をドキュメントとして御利用下さい．
 
 https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=213180&item_no=1&page_id=13&block_id=8
 
