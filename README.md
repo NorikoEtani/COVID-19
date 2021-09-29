@@ -2,6 +2,7 @@
 SARIMAモデルを用いた日本のCOVID-19感染予測プログラム
 
 作成日：2021年8月20日
+
 改訂日：2021年9月30日
 
 作成者：江谷典子
@@ -9,6 +10,7 @@ SARIMAモデルを用いた日本のCOVID-19感染予測プログラム
 電子メール：dr.noriko.etani@ieee.org
 
 一般社団法人 情報処理学会のデジタルプラクティスレポート「時系列解析 SARIMAモデルを用いた日本のCOVID-19感染予測実証実験」をドキュメントとして利用してください．
+
 https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=213180&item_no=1&page_id=13&block_id=8
 
 本プログラムの出力結果は次のURL（研究ブログ）にて公開しています．予測結果を更新する度にSNS twitterでお知らせしています．
